@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
 | [0542-01-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -142,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0721-accounts-merge) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
