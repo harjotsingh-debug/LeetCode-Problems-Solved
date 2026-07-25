@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
