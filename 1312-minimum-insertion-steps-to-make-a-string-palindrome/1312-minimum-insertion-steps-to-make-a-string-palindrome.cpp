@@ -10,7 +10,7 @@ int f(int i,int j,string &s1,string &s2){
     int minInsertions(string s) {
         string s2=s;
         reverse(s2.begin(),s2.end());
-        dp.resize(s.size()+1,vector<int>(s.size()+1,-1));
+        dp.resize(s.size(),vector<int>(s.size(),-1));
         int m=f(s.size()-1,s.size()-1,s,s2);
         return s.size()-m;
     }
