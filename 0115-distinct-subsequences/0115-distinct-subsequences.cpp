@@ -1,0 +1,37 @@
+class Solution {
+public:
+
+    vector<vector<long long>> dp;
+
+    long long f(int i,int j,string &s,string &t){
+
+        if(j<0)
+            return 1;
+
+        if(i<0)
+            return 0;
+
+        if(dp[i][j]!=-1)
+            return dp[i][j];
+
+        if(s[i]==t[j])
+
+            return dp[i][j]=
+                f(i-1,j-1,s,t)
+                +
+                f(i-1,j,s,t);
+
+        return dp[i][j]=
+            f(i-1,j,s,t);
+    }
+
+    int numDistinct(string s, string t) {
+
+        int n=s.size();
+        int m=t.size();
+
+        dp.assign(n,vector<long long>(m,-1));
+
+        return f(n-1,m-1,s,t);
+    }
+};
