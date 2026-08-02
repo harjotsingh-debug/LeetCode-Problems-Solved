@@ -9,8 +9,9 @@ int f(int i,int j,vector<int>& piles){
     return dp[i][j]=max(left,right);
 }
     bool stoneGame(vector<int>& piles) {
-        int n=piles.size();
-        dp.resize(n,vector<int>(n,-1e9));
-        return f(0,n-1,piles)>=0;
+        // int n=piles.size();
+        // dp.resize(n,vector<int>(n,-1e9));
+        // return f(0,n-1,piles)>=0;
+        return true;
     }
 };
