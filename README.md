@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0827-making-a-large-island) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1092-shortest-common-supersequence) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
