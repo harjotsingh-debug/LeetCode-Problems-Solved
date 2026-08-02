@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0827-making-a-large-island) |
+| [0877-stone-game](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0583-delete-operation-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0877-stone-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -236,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
