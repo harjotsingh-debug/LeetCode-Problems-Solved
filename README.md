@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0063-unique-paths-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0120-triangle) |
@@ -223,11 +224,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0455-assign-cookies) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0455-assign-cookies) |
