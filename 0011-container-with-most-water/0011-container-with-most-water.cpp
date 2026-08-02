@@ -19,7 +19,7 @@ public:
                 nl=l;
                 r--;
             }
-            int wid=r-l+1;
+            int wid=nr-nl;
             ans=max(ans,mini*wid);
         }
         return ans;
