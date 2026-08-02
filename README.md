@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0120-triangle) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0127-word-ladder) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0721-accounts-merge) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
