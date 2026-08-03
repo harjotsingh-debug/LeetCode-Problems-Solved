@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1406-stone-game-iii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1406-stone-game-iii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1406-stone-game-iii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1406-stone-game-iii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Hash Table
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1406-stone-game-iii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -270,4 +273,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
