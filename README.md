@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0064-minimum-path-sum) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0063-unique-paths-ii) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0455-assign-cookies) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
@@ -286,4 +289,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1406-stone-game-iii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
