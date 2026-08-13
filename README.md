@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0542-01-matrix) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [1631-path-with-minimum-effort](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
