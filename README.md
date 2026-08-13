@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0300-longest-increasing-subsequence) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [1631-path-with-minimum-effort](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0455-assign-cookies) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
