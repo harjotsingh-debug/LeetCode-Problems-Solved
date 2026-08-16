@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1406-stone-game-iii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
+| [2029-stone-game-ix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2258-escape-the-spreading-fire](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2258-escape-the-spreading-fire) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2029-stone-game-ix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Backtracking
 |  |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
@@ -302,14 +306,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -318,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
