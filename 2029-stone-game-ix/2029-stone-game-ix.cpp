@@ -10,8 +10,8 @@ public:
             else if(stones[i]%3==1)one++;
             else if(stones[i]%3==2) two++;
         }
-        if(n==2 && zero==0 && one==1 && two==1) return true;
-        if(one==2*zero && two==2*zero) return false ;
-        else return true;
+
+        return (zero % 2 == 0 && one > 0 && two > 0) ||
+       (zero % 2 == 1 && abs(one - two) > 2);
     }
 };
