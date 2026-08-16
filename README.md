@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0127-word-ladder) |
