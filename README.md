@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0322-coin-change) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0127-word-ladder) |
+| [0217-contains-duplicate](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0721-accounts-merge](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0721-accounts-merge) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
