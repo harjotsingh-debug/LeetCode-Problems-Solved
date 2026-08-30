@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0058-length-of-last-word) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0486-predict-the-winner) |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2029-stone-game-ix) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
