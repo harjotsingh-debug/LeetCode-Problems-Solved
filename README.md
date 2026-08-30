@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0827-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1020-number-of-enclaves) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0300-longest-increasing-subsequence) |
+| [0875-koko-eating-bananas](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2258-escape-the-spreading-fire](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2258-escape-the-spreading-fire) |
