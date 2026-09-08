@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1406-stone-game-iii) |
 | [1927-sum-game](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2029-stone-game-ix) |
+| [3870-count-commas-in-range](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/3870-count-commas-in-range) |
 ## Combinatorics
 |  |
 | ------- |
