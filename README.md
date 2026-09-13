@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0994-rotting-oranges) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
