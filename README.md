@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
@@ -389,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
