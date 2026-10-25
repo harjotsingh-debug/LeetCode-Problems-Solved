@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0733-flood-fill) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
