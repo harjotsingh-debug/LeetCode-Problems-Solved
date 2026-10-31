@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2258-escape-the-spreading-fire](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2258-escape-the-spreading-fire) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/3665-twisted-mirror-path-count) |
 ## Matrix
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
 | [2258-escape-the-spreading-fire](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2258-escape-the-spreading-fire) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3665-twisted-mirror-path-count](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/3665-twisted-mirror-path-count) |
 ## Topological Sort
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3665-twisted-mirror-path-count](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
 |  |
 | ------- |
