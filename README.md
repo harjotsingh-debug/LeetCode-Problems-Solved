@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
+| [1861-rotating-the-box](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1861-rotating-the-box) |
 | [2029-stone-game-ix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
+| [1861-rotating-the-box](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1861-rotating-the-box) |
 | [2258-escape-the-spreading-fire](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2258-escape-the-spreading-fire) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3665-twisted-mirror-path-count](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/3665-twisted-mirror-path-count) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0647-palindromic-substrings) |
+| [1861-rotating-the-box](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1861-rotating-the-box) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
