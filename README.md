@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1584-min-cost-to-connect-all-points) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0721-accounts-merge) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0647-palindromic-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1861-rotating-the-box](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/1861-rotating-the-box) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
