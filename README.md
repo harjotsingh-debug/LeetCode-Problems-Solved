@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0721-accounts-merge](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0721-accounts-merge) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
@@ -419,4 +423,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
