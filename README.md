@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0066-plus-one) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0064-minimum-path-sum) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/harjotsingh-debug/LeetCode-Problems-Solved/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
